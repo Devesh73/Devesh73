@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Techyeezus&color=blue&style=flat-square" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Techyeezus!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Devesh!;" />
 </h1>
 
 <h3 align="center">A passionate tech enthusiast, problem solver, and aspiring entrepreneur</h3>
@@ -21,14 +21,11 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Devesh2004s@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://in.linkedin.com/in/devesh-s-3048b22a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank" />
   </a>
 </div>
 
